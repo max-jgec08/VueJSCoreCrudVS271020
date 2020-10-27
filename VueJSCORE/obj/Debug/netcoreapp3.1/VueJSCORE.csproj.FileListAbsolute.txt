@@ -1,0 +1,234 @@
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\appsettings.json
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.exe
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.deps.json
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.runtimeconfig.json
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.runtimeconfig.dev.json
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.pdb
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.Views.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.Views.pdb
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\staticwebassets\VueJSCORE.StaticWebAssets.Manifest.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\staticwebassets\VueJSCORE.StaticWebAssets.xml
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorAssemblyInfo.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorAssemblyInfo.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.AssemblyInfoInputs.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.AssemblyInfo.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.TagHelpers.input.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.TagHelpers.output.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorCoreGenerate.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorTargetAssemblyInfo.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorTargetAssemblyInfo.cs
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.Views.pdb
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.csproj.CopyComplete
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.pdb
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.csprojAssemblyReference.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.MvcApplicationPartsAssemblyInfo.cache
+E:\EmBee Projects\Projects For Practice\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.exe
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.deps.json
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.runtimeconfig.json
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.runtimeconfig.dev.json
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.pdb
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.Views.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\VueJSCORE.Views.pdb
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.csprojAssemblyReference.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.AssemblyInfoInputs.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.AssemblyInfo.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.csproj.CoreCompileInputs.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorAssemblyInfo.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorAssemblyInfo.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.TagHelpers.input.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.TagHelpers.output.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorCoreGenerate.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorTargetAssemblyInfo.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.RazorTargetAssemblyInfo.cs
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.Views.pdb
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.csproj.CopyComplete
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\staticwebassets\VueJSCORE.StaticWebAssets.Manifest.cache
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\staticwebassets\VueJSCORE.StaticWebAssets.xml
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.dll
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.pdb
+C:\Users\SMaji_Laptop\Documents\Projects\VueJS_CORE_CRUD_SqlServer\VueJSCORE\obj\Debug\netcoreapp3.1\VueJSCORE.genruntimeconfig.cache

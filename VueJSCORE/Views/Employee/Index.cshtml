@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Form start -->
+<div class="container" id="vue-app">
+    <div class="orm-card">
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="list-heading">
+                    Employee Management
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <div class="row">
+                    <div class="col-6">
+                        <button class="btn btn-success btn-block">Add New Employee</button>
+                    </div>
+                    <div class="col-6">
+                        <button class="btn btn-secondary btn-block" v-on:click="GetResult">Fetch Employees</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="divEmployeeList" style="display:none">
+        <div class="card list-card primary-border" v-for="item in Employees" :key="item.empID">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-2 col-6">
+                        <b>First Name</b>
+                        <p>{{ item.firstName }}</p>
+                    </div>
+                    <div class="col-md-2 col-6">
+                        <b>Last Name</b>
+                        <p>{{ item.lastName }}</p>
+                    </div>
+                    <div class="col-md-2 col-6">
+                        <b>Contact No.</b>
+                        <p>{{ item.gender }}</p>
+                    </div>
+                    <div class="col-md-3 col-6">
+                        <b>Email ID</b>
+                        <p>{{ item.emailID }}</p>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="row">
+                            <div class="col-6">
+                                <p class="mt-2">
+                                    <button class="btn btn-sm btn-secondary btn-block" v-on:click="goEditEmp(item.empID)">
+                                        <i class="pe-7s-pen no-md"></i>
+                                        Edit
+                                    </button>
+                                </p>
+                            </div>
+                            <div class="col-6">
+                                <p class="mt-2">
+                                    <button class="btn btn-sm btn-primary btn-block" v-on:click="goEmpDetail(item.empID)">
+                                        <i class="pe-7s-search no-md"></i>
+                                        Details
+                                    </button>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- // Form end -->
+<!-- Application Script -->
+<script src="~/app_scripts/vue-js-poc.js"></script>

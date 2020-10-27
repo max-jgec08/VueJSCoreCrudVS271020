@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (min-width : 0px) and (max-width : 319px) {
+	
+}
+
+
+@media only screen and (min-width : 320px) and (max-width : 479px) {
+
+	.req-name{
+		display: inline-block;
+	}
+	.transfer-double{
+		height: auto;
+	}
+	.transfer-double-content-middle{
+		margin: 2% 0px 3% 0px;
+	}
+	.transfer-double-content-left{
+		width: 100%;
+	}
+	.transfer-double-content-middle{
+		width: 100%;
+	}
+	.transfer-double-content-right{
+		width: 100%;
+	}
+	.icon-forward:before{
+		content: "\e9d8" !important;
+	}
+	.icon-back:before{
+		content: "\e9db" !important;
+	}
+	.travel-des{
+		height: 150px !important;
+	}
+	.list-heading{
+		line-height: 24px;
+	    font-size: 18px;
+	    margin-bottom: 14px;
+	}
+	.list-card{
+		margin-bottom: 14px;
+	}
+	.btn i{
+		display: none;
+	}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 595px){
+
+	.transfer-double-content-left{
+		width: 42%;
+	}
+	.transfer-double-content-middle{
+		width: 10%;
+		margin: 20% 5px 0 5px;
+	}
+	.transfer-double-content-right{
+		width: 42%;
+	}
+	.travel-des{
+		height: 150px !important;
+	}
+	.travel-des{
+		height: 150px !important;
+	}
+
+}
+
+@media only screen and (max-width: 767px){
+
+	.form-card{
+		margin-top: 70px;
+	}
+	.travel-des{
+		height: 150px !important;
+	}
+}
+
+@media only screen and (min-width: 596px) and (max-width: 767px){
+
+	.transfer-double-content-left{
+		width: 42%;
+	}
+	.transfer-double-content-middle{
+		width: 10%;
+		margin: 20% 5px 0 5px;
+	}
+	.transfer-double-content-right{
+		width: 42%;
+	}
+	.travel-des{
+		height: 150px !important;
+	}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+	.form-card{
+		margin-top: 80px;
+	}
+	.transfer-double-content-left{
+		width: 42%;
+	}
+	.transfer-double-content-middle{
+		width: 10%;
+		margin: 20% 5px 0 5px;
+	}
+	.transfer-double-content-right{
+		width: 42%;
+	}
+	.travel-des{
+		height: 150px !important;
+	}
+	.no-md{
+		display: none;
+	}
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+
+	.transfer-double-content-left{
+		width: 42%;
+	}
+	.transfer-double-content-middle{
+		width: 10%;
+		margin: 20% 5px 0 5px;
+	}
+	.transfer-double-content-right{
+		width: 42%;
+	}
+	.no-md{
+		display: none;
+	}
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1224px){
+
+}
+
+@media only screen and (min-width: 1225px) and (max-width: 1999px){
+
+}
